@@ -1,0 +1,156 @@
+.not-top-cont{
+    width:500px;
+    height:170vh;
+    background-color: black;
+    margin-left:500px;
+}
+.noti-bg{
+    background-color: black;
+
+}
+.not-noti{
+    color:#f3c36f;
+    margin-left:30px;
+  
+}
+.not-tod{
+    color:#f3c36f;
+    font-weight:700;
+    margin-left:30px;
+
+
+}
+.not-img1{
+    width:10%;
+    height:10%;
+    margin-left:30px;
+    border-style:solid;
+    border-radius:100%;
+    border-color:#f3c36f;
+    border-width:2px;
+
+
+}
+.not-img2{
+    width:10%;
+    height:10%;
+    margin-left:30px;
+    border-style:solid;
+    border-radius:100%;
+    border-color:#f3c36f;
+    border-width:2px;
+    margin-top:10px;
+
+}
+.not-tod1{
+    color:#f3c36f;
+    font-weight:700;
+    margin-left:30px;
+    margin-top:20px;}
+.not-img3{
+    width:10%;
+    height:10%;
+    margin-left:30px;
+    border-style:solid;
+    border-radius:100%;
+    border-color:#f3c36f;
+    border-width:2px;
+    margin-top:10px;
+    
+}
+.not-side{
+    color:#f3c36f;
+    font-weight:500;
+    margin-left:10px;
+}
+.not-time{
+    color:gray;
+    margin-left:10px;
+
+}
+.not-meme{
+    width:50px;
+    height: 40px;
+    margin-left:120px;
+
+}
+.not-profiles{
+    width:80px;
+    height:80px;
+    margin-left:20px;
+
+
+
+}
+.not-side1{
+    color:#f3c36f;
+    font-weight:500;
+    margin-top:10px;
+}
+.not-meme1{
+    width:50px;
+    height: 40px;
+    margin-left:50px;
+    margin-top:10px;
+}
+.not-time1{
+    color:gray;
+    margin-left:5px;
+
+}
+.not-meme2{
+    width:50px;
+    height: 40px;
+    margin-left:80px;
+   
+}
+.not-but{
+    color:#f3c36f;
+    background-color:gray;
+    width:70px;
+    height:30px;
+    border-radius:5px;
+    border-style:solid;
+    margin-left:110px;
+    border-color:#f3c36f;
+}
+.not-img4{
+    width:10%;
+    height:10%;
+    margin-left:30px;
+    border-style:solid;
+    border-radius:100%;
+    border-color:#f3c36f;
+    border-width:2px;
+    margin-top:10px;
+    
+}
+.not-side23{
+    color:#f3c36f;
+    font-weight:500;
+    margin-left:10px;
+    margin-top:10px;
+}
+.not-but1{
+    color:#f3c36f;
+    background-color:black;
+    width:70px;
+    height:30px;
+    border-radius:5px;
+    border-style:solid;
+    margin-left:85px;
+    border-color:#f3c36f;
+    margin-top:10px;;
+}
+.not-time6{
+    color:gray;
+    margin-left:10px;
+    margin-top:10px;
+
+}
+.not-meme90{
+    width:50px;
+    height: 40px;
+    margin-left:40px;
+    margin-top:10px;
+}
